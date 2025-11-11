@@ -2,12 +2,30 @@ project:
   type: website
 
 website:
-  title: "feral-lab-website"
+  title: "feral lab"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - sidebar:research
+      - sidebar:about
+      - href: recruit.qmd
+        text: "Opportunities"
+  sidebar: 
+      - id: about
+        title: "Who We Are"
+        contents: 
+        - text: "People"
+          href: people.qmd
+        - text: "Contact"
+          href: contact.md
+      - id: research
+        title: "What We Do"
+        contents:
+        - text: "Research"
+          href: research.qmd
+        - text: "Publications"
+          href: publications.qmd
 
 format:
   html:

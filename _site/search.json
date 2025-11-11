@@ -1,16 +1,64 @@
 [
   {
+    "objectID": "recruit.html",
+    "href": "recruit.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "Interested in joining the lab?"
+  },
+  {
+    "objectID": "recruit.html#undergraduate-research",
+    "href": "recruit.html#undergraduate-research",
+    "title": "Get Involved",
+    "section": "Undergraduate Research",
+    "text": "Undergraduate Research\nAre you an undergraduate student at UAF interested in research? Get in touch! If all available positions are filled, happy to work together to apply for opportunities like UAF’s URSA program."
+  },
+  {
+    "objectID": "recruit.html#graduate-opportunities",
+    "href": "recruit.html#graduate-opportunities",
+    "title": "Get Involved",
+    "section": "Graduate Opportunities",
+    "text": "Graduate Opportunities\nCurious about grad school? Interested in a master’s or PhD in natural resources, environment or earth science? UAF’s got great programs in all, and if there’s not currently a position in the lab, happy to work together to apply for funding through programs like the NSF GRFP and others."
+  },
+  {
+    "objectID": "recruit.html#postdoc-researchers",
+    "href": "recruit.html#postdoc-researchers",
+    "title": "Get Involved",
+    "section": "Postdoc Researchers",
+    "text": "Postdoc Researchers\nInterested in a postdoc? Please email me to discuss potential projects. I’m happy to talk about, develop and collaborate on proposals for independent funding like NSF’s Postdoctoral Research Fellowships, the USDA-NIFA or others."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the Forest Ecosystem: Research and Applications Lab at the University of Alaska Fairbanks."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "feral-lab-website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the Forest Ecosystem: Research and Applications Lab at the University of Alaska Fairbanks."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2025\nBarrio, I, Vuorinen K, Barbero Palacios L, Defourneaux M, Petit Bon M,… Hayes K, … Kamena S. Emerging priorities in terrestrial herbivory research in the Arctic. (2025). Arctic Science. https://doi.org/10.1139/as-2024-0080\nCarter T, Stears A, Fornwalt P, Atkins D, Dwire K, Fleri J, Hayes K, Mount H, Twaddell E, Wessel S, Buma B, Laughlin D.Fine-root traits coordinate with aboveground strategies yet poorly predict species’ response to spruce mortality. (2025). Plant Soil. https://doi.org/10.1007/s11104-025-07463-x\n\n\n2024\nHayes K, Hoffman C, Linn R, Ziegler J, Buma B. Fuel constraints, not fire weather conditions, limit fire behavior in reburned boreal forests. (2024). Agricultural and Forest Meteorology. https://doi.org/10.1016/j.agrformet.2024.110216\n\n\n2023\nWeiss S, Marshall A, Hayes K, Nicolsky D, Buma B, Lucash M. Future transitions from a conifer to a deciduous-dominated landscape are accelerated by greater wildfire activity and climate change in interior Alaska. (2023). Landscape Ecology. https://doi.org/10.1007/s10980-023-01733-8\n\n\n2022\nCarter T, Hayes K, Buma B. Putting more fuel on the fire… or maybe not? A synthesis of spruce beetle and fire interactions in North American Subalpine Forests. (2022). Landscape Ecology. https://doi.org/10.1007/s10980-022-01481-1\nHayes K, Carter T, Cook P, Twaddell E, Buma B. Supporting Graduate Field Leadership through Community-Sourced Advice, Action, and Policy. (2022). Ecosphere. https://doi.org/10.1002/ecs2.4247\nBuma B, Hayes K, Weiss S, Lucash M. Short interval fires increasing in the Alaskan boreal forest as fire self-regulation decays across forest types. (2022). Scientific Reports. https://doi.org/10.1038/s41598-022-08912-8\nMuthukrishnan R, Hayes K, Bartowitz K, Cattau M, Harvey B, Lin Y, Lunch C. Harnessing NEON to evaluate ecological tipping points: opportunities, challenges, and approaches. (2022). Ecosphere. http://doi.org/10.1002/ecs2.3989\n\n\n2021\nNagy C, Balch J, Bissell E, Cattau M, Glenn N, Halpern B, … Hayes K, … O’Riordan, C. Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community. (2021). Ecosphere. https://doi.org/10.1002/ecs2.3833\nHayes K, Buma B. Effects of short-interval disturbances continue to accumulate, overwhelming variability in local resilience. (2021). Ecosphere. https://doi.org/10.1002/ecs2.3379\nJensen A, Fastovich D, Watson B, Gill J, Jackson S, Russell J, Bevington J, Hayes K, …. Williams J. More than one way to kill a spruce forest: The role of fire and climate in the late‐glacial termination of spruce woodlands across the southern Great Lakes. (2021). Journal of Ecology.https://doi.org/10.1111/1365-2745.13517\n\n\n2020\nBuma B, Weiss S, Hayes K, Lucash M. Wildland fire reburning trends across the US West suggest only short-term negative feedback and differing climatic effects. (2020). Environmental Research Letters. https://doi.org/10.1088/1748-9326/ab6c70",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "People"
+    ]
   }
 ]
