@@ -2,28 +2,28 @@
   {
     "objectID": "recruit.html",
     "href": "recruit.html",
-    "title": "Get Involved",
+    "title": "Come work with us",
     "section": "",
-    "text": "Interested in joining the lab?"
+    "text": "Interested in joining the lab? Open positions, if available, will be posted below:"
   },
   {
     "objectID": "recruit.html#undergraduate-research",
     "href": "recruit.html#undergraduate-research",
-    "title": "Get Involved",
+    "title": "Come work with us",
     "section": "Undergraduate Research",
-    "text": "Undergraduate Research\nAre you an undergraduate student at UAF interested in research? Get in touch! If all available positions are filled, happy to work together to apply for opportunities like UAF’s URSA program."
+    "text": "Undergraduate Research\nAre you an undergraduate student at UAF interested in research? Get in touch! Happy to collaborate on internal opportunities like the URSA program."
   },
   {
     "objectID": "recruit.html#graduate-opportunities",
     "href": "recruit.html#graduate-opportunities",
-    "title": "Get Involved",
+    "title": "Come work with us",
     "section": "Graduate Opportunities",
-    "text": "Graduate Opportunities\nCurious about grad school? Interested in a master’s or PhD in natural resources, environment or earth science? UAF’s got great programs in all, and if there’s not currently a position in the lab, happy to work together to apply for funding through programs like the NSF GRFP and others."
+    "text": "Graduate Opportunities\nCurious about grad school? Interested in a master’s or PhD in natural resources, environment or earth science? You can email me (Kate). Before you do, take a look through the lab website, especially the research page. Be prepared to talk about why you’d like to go to graduate school, and why you’d like to work with me in particular.\nI’m also happy to talk about, develop and collaborate on proposals for independent funding proposals for the NSF GRFP and others."
   },
   {
     "objectID": "recruit.html#postdoc-researchers",
     "href": "recruit.html#postdoc-researchers",
-    "title": "Get Involved",
+    "title": "Come work with us",
     "section": "Postdoc Researchers",
     "text": "Postdoc Researchers\nInterested in a postdoc? Please email me to discuss potential projects. I’m happy to talk about, develop and collaborate on proposals for independent funding like NSF’s Postdoctoral Research Fellowships, the USDA-NIFA or others."
   },
@@ -32,14 +32,64 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Welcome to the Forest Ecosystem: Research and Applications Lab at the University of Alaska Fairbanks."
+    "text": "Welcome to the Forest Ecosystem Research and Applications Lab at the University of Alaska Fairbanks."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "feral lab",
     "section": "",
-    "text": "Welcome to the Forest Ecosystem: Research and Applications Lab at the University of Alaska Fairbanks."
+    "text": "Welcome to the Forest Ecosystem Research and Applications Lab at the University of Alaska Fairbanks.\nWe do applied research on changing boreal ecosystems."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Our Research",
+    "section": "",
+    "text": "The long-term goals of our research are to examine the mechanisms, impact and mitigation of climate change in ecosystems with changing disturbance regimes. Our lab combines field, lab and modeling tools to conduct interdisciplinary and solutions-oriented work, primarily in boreal forests of North America.\nWe’re particularly interested in some of the following questions:",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#how-resilient-are-ecosystems-to-increasing-disturbance-frequency",
+    "href": "research.html#how-resilient-are-ecosystems-to-increasing-disturbance-frequency",
+    "title": "Our Research",
+    "section": "How resilient are ecosystems to increasing disturbance frequency?",
+    "text": "How resilient are ecosystems to increasing disturbance frequency?\nUnderstanding the impact of increasing fire in boreal forests is critical for anticipating implications for global carbon cycling: increasing fire disadvantages slower-growing conifer species but those same conifers produce thick soil organic layers that insulate carbon-rich permafrost. Our research unites paleoecology, landscape ecology and fire ecology to capture the impact of increasing fire on boreal forest resilience.",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#what-are-the-mechanisms-by-which-abiotic-and-biotic-disturbances-interact-to-shape-ecosystem-resilience",
+    "href": "research.html#what-are-the-mechanisms-by-which-abiotic-and-biotic-disturbances-interact-to-shape-ecosystem-resilience",
+    "title": "Our Research",
+    "section": "What are the mechanisms by which abiotic and biotic disturbances interact to shape ecosystem resilience?",
+    "text": "What are the mechanisms by which abiotic and biotic disturbances interact to shape ecosystem resilience?\nWarming temperatures alter the distribution, abundance and impact of biotic disturbances. Herbivores like moose and hare prefer foraging on deciduous species emerging in post-fire boreal landscapes. These biotic disturbances and their interactions with fire could fundamentally alter boreal forests. Our work explores the interactions between biotic and abiotic disturbances in boreal ecosystems, particularly under climate change.",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#how-do-we-best-mitigate-and-adapt-to-boreal-environmental-change",
+    "href": "research.html#how-do-we-best-mitigate-and-adapt-to-boreal-environmental-change",
+    "title": "Our Research",
+    "section": "How do we best mitigate and adapt to boreal environmental change?",
+    "text": "How do we best mitigate and adapt to boreal environmental change?\nA legacy of fire suppression in the western US has led to fuel build-ups that are linked to an increase in fast and destructive wildfires across the region. Yet, momentum, support, and interest in strategic fire suppression as a mechanism for conserving boreal carbon is growing. It’s unclear whether suppression practices would maintain carbon over the next century of warming. Decision-makers urgently require precise information on the effectiveness of management strategies across the boreal.",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Interested in what we do? Get in touch!",
+    "crumbs": [
+      "Contact"
+    ]
   },
   {
     "objectID": "publications.html",
@@ -54,9 +104,9 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "About",
+    "title": "People",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "text": "More to come here. Stay tuned!",
     "crumbs": [
       "People"
     ]

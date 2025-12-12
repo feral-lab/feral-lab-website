@@ -1,5 +1,18 @@
 ---
-title: "Home"
+title: ""
+format:  
+  html:
+    grid:
+      margin-width: 350px
+about:
+  template: broadside
+  image: index.jpg
 ---
 
-Welcome to the Forest Ecosystem: Research and Applications Lab at the University of Alaska Fairbanks.
+::: rightcolummn
+![](feral_lab_logo.png){width="45%"}
+:::
+
+Welcome to the Forest Ecosystem Research and Applications Lab at the University of Alaska Fairbanks.
+
+We do applied research on changing boreal ecosystems.

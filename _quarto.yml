@@ -18,7 +18,7 @@ website:
         - text: "People"
           href: people.qmd
         - text: "Contact"
-          href: contact.md
+          href: contact.qmd
       - id: research
         title: "What We Do"
         contents:

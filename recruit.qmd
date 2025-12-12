@@ -1,18 +1,32 @@
 ---
-title: "Get Involved"
+format:  
+  html:
+    grid:
+      margin-width: 350px
+title: "Come work with us"
+title-block-banner: recruit_header.jpg
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
 ---
 
-Interested in joining the lab?
-
-# Current Opportunities
+Interested in joining the lab? Open positions, if available, will be posted below:
 
 ## Undergraduate Research
 
-Are you an undergraduate student at UAF interested in research? Get in touch! If all available positions are filled, happy to work together to apply for opportunities like UAF's [URSA](https://www.uaf.edu/ursa/) program.
+Are you an undergraduate student at UAF interested in research? Get in touch! Happy to collaborate on internal opportunities like the [URSA](https://www.uaf.edu/ursa/) program.
 
 ## Graduate Opportunities
 
-Curious about grad school? Interested in a master's or PhD in natural resources, environment or earth science? UAF's got great programs in all, and if there's not currently a position in the lab, happy to work together to apply for funding through programs like the [NSF GRFP](https://www.nsfgrfp.org/) and others.
+Curious about grad school? Interested in a master's or PhD in natural resources, environment or earth science? You can [email me (Kate)](khayes23@alaska.edu). Before you do, take a look through the lab website, especially the research page. Be prepared to talk about why you'd like to go to graduate school, and why you'd like to work with me in particular.
+
+I'm also happy to talk about, develop and collaborate on proposals for independent funding proposals for the [NSF GRFP](https://www.nsfgrfp.org/) and others.
 
 ## Postdoc Researchers
 

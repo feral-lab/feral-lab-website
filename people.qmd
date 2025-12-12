@@ -1,9 +1,19 @@
 ---
-title: "About"
+format:  
+  html:
+    grid:
+      margin-width: 350px
+title: "People"
+title-block-banner: people_header.jpeg
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+More to come here. Stay tuned!

@@ -1,5 +1,19 @@
 ---
+format:  
+  html:
+    grid:
+      margin-width: 350px
 title: "Publications"
+title-block-banner: pub_header.jpg
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
 ---
 
 # 2025
