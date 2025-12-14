@@ -18,16 +18,18 @@ include-in-header:
 
 Interested in joining the lab? Open positions, if available, will be posted below:
 
-## Undergraduate Research
+As a lab, we aspire to create a diverse community that welcomes people of different races, cultures, ages, genders, sexuality, religions, socioeconomic levels, political perspectives, abilities, opinions, values and experiences.
+
+# Undergraduate Research
 
 Are you an undergraduate student at UAF interested in research? Get in touch! Happy to collaborate on internal opportunities like the [URSA](https://www.uaf.edu/ursa/) program.
 
 ## Graduate Opportunities
 
-Curious about grad school? Interested in a master's or PhD in natural resources, environment or earth science? You can [email me (Kate)](khayes23@alaska.edu). Before you do, take a look through the lab website, especially the research page. Be prepared to talk about why you'd like to go to graduate school, and why you'd like to work with me in particular.
+Curious about grad school? Interested in a master's or PhD in natural resources, environment or earth science? You can [email me (Kate)](mailto:khayes23@alaska.edu). Before you do, take a look through the lab website, especially the research page. Be prepared to talk about why you'd like to go to graduate school, and why you'd like to work with me in particular.
 
 I'm also happy to talk about, develop and collaborate on proposals for independent funding proposals for the [NSF GRFP](https://www.nsfgrfp.org/) and others.
 
 ## Postdoc Researchers
 
-Interested in a postdoc? Please [email me](khayes23@alaska.edu) to discuss potential projects. I'm happy to talk about, develop and collaborate on proposals for independent funding like [NSF's Postdoctoral Research Fellowships](http://nsf.gov/funding/postdocs), the USDA-NIFA or others.
+Interested in a postdoc? Please to [email me](mailto:khayes23@alaska.edu)discuss potential projects. I'm happy to talk about, develop and collaborate on proposals for independent funding like [NSF's Postdoctoral Research Fellowships](http://nsf.gov/funding/postdocs), the USDA-NIFA or others.
