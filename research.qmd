@@ -19,21 +19,33 @@ include-in-header:
 The long-term goals of our research are to examine the mechanisms, impact and mitigation of climate change in ecosystems with changing disturbance regimes. Our lab combines field, lab and modeling tools to conduct interdisciplinary and solutions-oriented work, primarily in boreal forests of North America.
 
 ::: fullwidth
-![](research_flow_full.png){.lightbox}
+![feral lab research framework](research_flow_full.png){.lightbox}
 :::
 
 We're particularly interested in some of the following areas:
 
-## **How resilient are ecosystems to increasing disturbance frequency?**
+## **Increasing disturbance frequency**
 
 Understanding the impact of increasing fire in boreal forests is critical for anticipating implications for global carbon cycling: increasing fire disadvantages slower-growing conifer species but those same conifers produce thick soil organic layers that insulate carbon-rich permafrost. [Our research unites paleoecology, landscape ecology and fire ecology to capture the impact of increasing fire on boreal forest resilience.]{.underline}
+
+::: fullwidth
+![](reburn_vig.png){.lightbox}
+:::
+
+::: fullwidth
+![](flam_vig.jpg){.lightbox}
+:::
+
 
 ## **Biotic disturbances**
 
 Warming temperatures alter the distribution, abundance and impact of biotic disturbances. Herbivores like moose and hare prefer foraging on deciduous species emerging in post-fire boreal landscapes. These biotic disturbances and their interactions with fire could fundamentally alter boreal forests. [Our work explores the interactions between biotic and abiotic disturbances in boreal ecosystems, particularly under climate change.]{.underline}
 
+::: fullwidth
+![](biotic_vig.png){.lightbox}
+:::
+
 ## **Boreal forest management**
 
-A legacy of fire suppression in the western US has led to fuel build-ups that are linked to an increase in fast and destructive wildfires across the region. Yet, momentum, support, and interest in strategic fire suppression as a mechanism for conserving boreal carbon is growing. It’s unclear whether suppression practices would maintain carbon over the next century of warming. Decision-makers urgently require precise information on the effectiveness of management strategies across the boreal.
+A legacy of fire suppression in the western US has led to fuel build-ups that are linked to an increase in fast and destructive wildfires across the region. Yet, momentum, support, and interest in strategic fire suppression as a mechanism for conserving boreal carbon is growing. It’s unclear whether suppression practices would maintain carbon over the next century of warming. Decision-makers urgently require precise information on the effectiveness of management strategies across the boreal.[Our work provides critical insight into the efficacy and long-term outcomes of climate-smart fire managment strategies.]{.underline}
 
--   How do we best
