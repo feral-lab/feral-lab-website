@@ -11,7 +11,7 @@ include-in-header:
       <style>
       .quarto-title-block .quarto-title-banner {
         background-position-y: center;
-        height: 200px;
+        height: 250px;
       }
       </style>
 ---

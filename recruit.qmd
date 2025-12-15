@@ -11,7 +11,7 @@ include-in-header:
       <style>
       .quarto-title-block .quarto-title-banner {
         background-position-y: center;
-        height: 200px;
+        height: 250px;
       }
       </style>
 ---
@@ -40,7 +40,7 @@ Interested in joining the lab? Open positions, if available, will be posted belo
 
 As a lab, we aspire to create a diverse community that welcomes people of different races, cultures, ages, genders, sexuality, religions, socioeconomic levels, political perspectives, abilities, opinions, values and experiences.
 
-# Undergraduate Research
+## Undergraduate Research
 
 Are you an undergraduate student at UAF interested in research? Get in touch! Happy to collaborate on internal opportunities like the [URSA](https://www.uaf.edu/ursa/) program.
 
