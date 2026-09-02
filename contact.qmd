@@ -16,4 +16,4 @@ include-in-header:
       </style>
 ---
 
-Interested in what we do? [Get in touch!](khayes23@alaska.edu)
+Interested in what we do? [Get in touch!](hayesk7@wwu.edu)

@@ -16,11 +16,13 @@ include-in-header:
       </style>
 ---
 
+# 2026
+
 # 2025
 
 Barrio, I, Vuorinen K, Barbero Palacios L, Defourneaux M, Petit Bon M,… **Hayes K**, … Kamena S. Emerging priorities in terrestrial herbivory research in the Arctic. (2025). *Arctic Science.* <https://doi.org/10.1139/as-2024-0080>
 
-Carter T, Stears A, Fornwalt P, Atkins D, Dwire K, Fleri J, **Hayes K**, Mount H, Twaddell E, Wessel S, Buma B, Laughlin D.Fine-root traits coordinate with aboveground strategies yet poorly predict species’ response to spruce mortality. (2025). *Plant Soil.* https://doi.org/10.1007/s11104-025-07463-x
+Carter T, Stears A, Fornwalt P, Atkins D, Dwire K, Fleri J, **Hayes K**, Mount H, Twaddell E, Wessel S, Buma B, Laughlin D.Fine-root traits coordinate with aboveground strategies yet poorly predict species’ response to spruce mortality. (2025). *Plant Soil.* <https://doi.org/10.1007/s11104-025-07463-x>
 
 # 2024
 

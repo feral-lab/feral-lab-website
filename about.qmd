@@ -9,4 +9,4 @@ format:
       margin-width: 350px
 ---
 
-Welcome to the Forest Ecosystem Research and Applications Lab at the University of Alaska Fairbanks.
+Welcome to the Forest Ecosystem Research and Applications Lab at Western Washington University.
