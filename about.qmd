@@ -1,17 +1,24 @@
 ---
 title: "About"
-about:
-  template: trestles
-  image: profile.jpg
 format:  
   html:
     grid:
       margin-width: 350px
+title-block-banner: values_header.png
+title-block-banner-color: white
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
 ---
 
 Welcome to the Forest Ecosystem Research and Applications Lab at Western Washington University.
 
-*Why feral?*
+### *Why feral?*
 
 feral, for many reasons.
 

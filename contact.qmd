@@ -4,7 +4,7 @@ format:
     grid:
       margin-width: 350px
 title: "Contact"
-title-block-banner: contact_header.jpg
+title-block-banner: contact_header.JPG
 title-block-banner-color: white
 include-in-header:
   - text: |
