@@ -10,3 +10,19 @@ format:
 ---
 
 Welcome to the Forest Ecosystem Research and Applications Lab at Western Washington University.
+
+*Why feral?*
+
+feral, for many reasons.
+
+feral was a temporary solution to the paralyzing decision that is naming a lab, a product of many people coming together, after a single PI while knowing a lab name gives meaning, cause, and place to community.
+
+feral was an unnecessary commitment to a bit[^1].
+
+[^1]: the temptation of "go check the feral lab philosophy" or "this is my feral labmate" was too strong to resist
+
+feral is a gesture towards the knowledge that "wilderness" is an idea constructed by humans[^2], that distinguishing between "people" and "nature" is a weapon of colonialism and racism[^3], that we as a lab, as scholars and as a species are an inseparable part of the ecosystems we study.
+
+[^2]: [The Trouble with Wilderness](https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html), William Cronon
+
+[^3]: [The Colonizer and the Colonized, Albert Memmi](https://cominsitu.wordpress.com/wp-content/uploads/2020/05/albert-memmi-the-colonizer-and-the-colonized-1.pdf)
